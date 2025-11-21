@@ -1,5 +1,5 @@
 export const questions = [
-    "Studies show 80% of issues in relationship arise from inadequate communication, how often do you communicate with your partner?",
+  "Studies show 80% of issues in relationship arise from inadequate communication, how often do you communicate with your partner?",
   "Conflicts must arise in relationships, how do you resolve conflicts when they arise?",
   "Whether economic, social, recreational, or spiritual, partners thrive better when they have common interests, do you and your partner share common goals?",
   "Feeling overwhelmed often brings frustration in relationships, how satisfied are you with your partner's support?",
